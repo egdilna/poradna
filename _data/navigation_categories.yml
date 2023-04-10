@@ -2,14 +2,11 @@
 
 - heading: Procházejte všechny kategorie
   categories:
-    - title: Getting Started
-      desc: Get your account up and running in just few easy steps
+    - title: My a vy
+      desc: Co děláme a nabízíme a jak vám můžeme být prospěšní
       icon: settings
 
-    - title: Account and Billing
-      desc: Managing your account, creating new users and exporting data
-      icon: credit-card
 
-    - title: Troubleshooting
-      desc: Answers to most common configuration issues
+    - title: Trable s eGovernmentem
+      desc: Pokud čemukoliv z EG nerozumíte tak jsme tu ještě pořád my
       icon: cog
