@@ -1,0 +1,9 @@
+# Navbar menu navigation links
+- title: Příspěvky
+  url: /
+
+- title: Otázky
+  url: /faq/
+
+- title: Contact
+  url: /contact/
