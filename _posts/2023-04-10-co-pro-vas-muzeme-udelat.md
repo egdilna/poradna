@@ -2,7 +2,6 @@
 layout: post
 title: S čím vším vám můžeme pomoci
 categories: [My a vy, Trable s eGovernmentem]
-date: 2023-04-01
 author: Michal Rada
 ---
 
