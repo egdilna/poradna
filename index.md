@@ -12,11 +12,11 @@ hero:
 category:
     columns: 3
 featured:
-    title: Featured Articles
+    title: Doporučujeme
     tag: featured
 cta:
-    title: Didn't find an answer to your question?
-    subtitle: Get in touch with us for details on additional services and custom work pricing
-    button_text: Contact Us   
-    button_url: /contact/      
+    title: Nenašli, rádcové, nenašli?
+    subtitle: ozvěte se nám a my se mrkneme, co s tím můžeme udělat. Také mrkněte na hlavní web EGdílny a nebo na EGOVedu
+#    button_text: Contact Us   
+#    button_url: /contact/      
 ---
