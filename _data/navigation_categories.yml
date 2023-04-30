@@ -9,4 +9,8 @@
 
     - title: Trable s eGovernmentem
       desc: Pokud čemukoliv z EG nerozumíte tak jsme tu ještě pořád my
-      icon: cog
+      icon: tool
+
+    - title: Přístupnost informací
+      desc: Přístupnost není jen povinnost, je to i nutnost. Chceme přece, aby mezi námi mohl plnohodnotně žít a využívat naše služby opravdu každý, ne?
+      icon: info

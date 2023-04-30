@@ -2,6 +2,7 @@
 layout: post
 title: S čím vším vám můžeme pomoci
 categories: [My a vy, Trable s eGovernmentem]
+tags: [EGdílna, redakce]
 author: Michal Rada
 ---
 
