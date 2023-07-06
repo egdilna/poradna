@@ -2,7 +2,7 @@
 layout: post
 title: Jsme město a máme podřízené organizace. Spadají tyto do řízení ICT a máme pro ně dělat také informační koncepce?
 categories: [Trable s eGovernmentem]
-tags: [EG, IK, řízení]
+tags: [IK, řízení]
 author: redakce
 ---
 

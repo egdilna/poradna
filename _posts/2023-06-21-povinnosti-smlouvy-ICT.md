@@ -2,7 +2,7 @@
 layout: post
 title: Co musí obsahovat smlouvy s dodavateli ICT?
 categories: [Trable s eGovernmentem]
-tags: [EG, ICT, smlouvy, právo, dodavatelé, povinnosti]
+tags: [smlouvy, dodavatelé]
 author: Michal Rada
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Máme teď na jaře 2023 psát novou informační koncepci?
 categories: [Trable s eGovernmentem]
-tags: [EG, ICT, IK, řízení]
+tags: [IK, řízení]
 author: EGdílna
 ---
 
