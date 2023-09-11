@@ -14,3 +14,7 @@
     - title: Přístupnost informací
       desc: Přístupnost není jen povinnost, je to i nutnost. Chceme přece, aby mezi námi mohl plnohodnotně žít a využívat naše služby opravdu každý, ne?
       icon: info
+
+    - title: Pereme se s eZdravotnictvím
+      desc: Jste poskytovatel zdravotních služeb nebo se vás jinak dotýká eHealth? Kromě dalších zdrojů vám můžeme pomoci i my s vašimi dotazy a nejasnostmi
+      icon: health
