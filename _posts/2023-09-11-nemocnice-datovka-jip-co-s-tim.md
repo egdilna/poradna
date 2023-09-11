@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jsme město a máme podřízené organizace. Spadají tyto do řízení ICT a máme pro ně dělat také informační koncepce?
+title: Do naší nemocnice dorazily nějaké datové zprávy o jakýchsi rolích v agendách a o nutnosti zřídit si JIP, co to je a co a proč máme dělat?
 categories: [Pereme se s eZdravotnictvím]
 tags: [eHealth, nemocnice, SPUU]
 author: Michal Rada
