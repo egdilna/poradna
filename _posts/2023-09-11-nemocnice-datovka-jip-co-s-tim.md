@@ -6,6 +6,8 @@ tags: [eHealth, nemocnice, SPUU]
 author: Michal Rada
 ---
 
+Aktualizováno 29.9.2023
+
 Nemocnicím a veřejnoprávním zdravotnickým zařízením dorazilo několik datových zpráv s tím, že si mají zřídit jakéhosi administrátora v JIP/KAAS a že nově budou subjekty v nějaké agendě v jakémsi RPP. Zdá se ale, že obsah datových zpráv není moc srozumitelný a tak se i na nás nemocnide obracejí s prosbou o radu.
 
 O cop vlastně jde: Kombinací zákonů k základním registrům a zdravotnické legislativy mají tyto subjekty nové důležité role z nichž pro ně budou plynout nějaké povinnosti v následujících 3 letech. Tyto role jsou:
@@ -20,3 +22,4 @@ Z těchto rolí plynou postupně nabíhající povinnosti. První z nich je př�
 Nyní tedy musí nemocnice zřídit takzvaného Lokálního administrátora JIP, což je jejich administrátor, který sám v ISVS pracovat nebude, ale bude přidělovat a spravovat účty uživatelů v JIP za danou nemocnici. Proto je nezbytné si nyní takového administrátora zřídit. Doporučujeme, aby tímto administrátorem byl ICT pracovník jež má dovednosti k jednoduché správě uživatelů v externích systémech, dobrým srovnáním může být třeba administrátor datové schránky, který v nemocnici již existuje. Administrátor bude jen zřizovat účty, prováže je na existující fyzické osoby podle jejich pravých údajů a bude je označováním přidělovat do jednotlivých rolí v JIP.
 
 Jakmile bude aktuální přechod ze stávajícího mechanismu přístupu přes portál do NZIS, budou opět tato zařízení vyzvána, aby svým konkrétním uživatelům zřídily přístup do NZIS přes JIP. A to budou dělat právě lokální administrátoři, kteří přiřadí konkrétní fyzické osoby do rolí vůči NZIS a tím jim umožní se do NZIS přihlásit přes JIP.
+Aktualizace 29.9.2023: Nyní pro vás z práce v rámci AIS působnostního jsou důležité tyto návody: [Podrobný návod na přihlášení do AIS RPP Působnostní](https://archi.gov.cz/znalostni_baze:aisp_navod_plny) a potom zejména [Návod na Oznámení výkonu agendy soukromoprávním uživatelem údajů (SPUÚ)](https://archi.gov.cz/znalostni_baze:aisp_oznameni_vykonu_agendy_spuu)
