@@ -1,0 +1,7 @@
+---
+title: Co znamená náhrada podpisu elektronickou identifikací a jak to máme řešit?
+---
+
+Zákon stanoví, že s využitím zaručené elektronické identifikace se nesmí vyžadovat elektronický podpis, respektive ZEID nahrazuje a je ekvivalentem podpisu a to včetně úředně ověřeného podpisu.
+
+<p>Zákon o informačních systémech veřejné správy definuje obecnou povinnost <a href="http://mapa.egdilna.cz/#Strp%C4%9Bt%20formu%20podpisu%20vyu%C5%BEit%C3%ADm%20elektronick%C3%A9%20identifikacehttp://mapa.egdilna.cz/#Strp%C4%9Bt%20formu%20podpisu%20vyu%C5%BEit%C3%ADm%20elektronick%C3%A9%20identifikace">Strpět formu podpisu využitím elektronické identifikace</a>. . Konkrétně pak ustanovení § 8 říká</p><blockquote><p>Úkon, jehož náležitostí má být podpis toho, kdo jej činí, učiněný prostřednictvím informačního systému veřejné správy se považuje za podepsaný, umožňuje-li informační systém veřejné správy prokázání totožnosti toho, kdo úkon činí, s využitím elektronické identifikace, autorizaci úkonu tím, kdo úkon činí, a zpětné prokázání projevu vůle toho, kdo úkon činí.</p></blockquote><p>To tedy znamená, že s využitím ZEID prostřednictvím Národního bodu podle zákona 250/2017 se nesmí vyžadovat pro úkon elektronický podpis, pokud je činěn po identifikaci v rámci informačního systému. Takovým systémem je kupříkladu každý portál úřadu.</p>
